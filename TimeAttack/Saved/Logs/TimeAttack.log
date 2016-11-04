@@ -1,0 +1,1030 @@
+﻿Log file open, 11/01/16 10:46:16
+LogInit:Display: Running engine for game: TimeAttack
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-458105228) SRandInit(-458105228).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.612843
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.01-13.46.19:006][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.01-13.46.19:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.01-13.46.19:048][  0]LogInit: Computer: YISUS
+[2016.11.01-13.46.19:048][  0]LogInit: User: Jesus
+[2016.11.01-13.46.19:048][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.01-13.46.19:048][  0]LogInit: High frequency timer resolution =1.949467 MHz
+[2016.11.01-13.46.19:049][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2016.11.01-13.46.19:049][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.01-13.46.19:049][  0]LogMemory: Process Physical Memory: 253.25 MB used, 253.25 MB peak
+[2016.11.01-13.46.19:049][  0]LogMemory: Process Virtual Memory: 259.33 MB used, 259.33 MB peak
+[2016.11.01-13.46.19:049][  0]LogMemory: Physical Memory: 2375.53 MB used, 7103.50 MB total
+[2016.11.01-13.46.19:049][  0]LogMemory: Virtual Memory: 602.68 MB used, 134217728.00 MB total
+[2016.11.01-13.46.20:819][  0]LogTextLocalizationManager: No specific translations for ('es-CL') exist, so ('es') translations will be used.
+[2016.11.01-13.46.23:066][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.01-13.46.23:120][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 Graphics' (Feature Level 11_0)
+[2016.11.01-13.46.23:120][  0]LogD3D11RHI:       3042/0/3328 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2016.11.01-13.46.23:124][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.01-13.46.23:124][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.01-13.46.23:124][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.01-13.46.23:147][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.01-13.46.23:147][  0]LogD3D11RHI:     GPU DeviceId: 0x9851 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.01-13.46.23:147][  0]LogWindows: EnumDisplayDevices:
+[2016.11.01-13.46.23:148][  0]LogWindows:    0. 'AMD Radeon(TM) R5 Graphics' (P:1 D:1)
+[2016.11.01-13.46.23:149][  0]LogWindows:    1. 'AMD Radeon(TM) R5 Graphics' (P:0 D:0)
+[2016.11.01-13.46.23:150][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2016.11.01-13.46.23:150][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 Graphics
+[2016.11.01-13.46.23:150][  0]LogD3D11RHI:   Driver Version: 13.350.1009.1001 (internal:13.350.1009.1001, unified:13.350.1009.1001)
+[2016.11.01-13.46.23:150][  0]LogD3D11RHI:      Driver Date: 3-14-2014
+[2016.11.01-13.46.23:150][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.01-13.46.23:188][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.01-13.46.23:212][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2016.11.01-13.46.25:416][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.01-13.46.25:417][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Intermediate/Shaders/WorkingDirectory/7916/).
+[2016.11.01-13.46.25:418][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jesus/AppData/Local/Temp/UnrealShaderWorkingDir/40EE3DAB4768F99378B1E8A1816BE92D/'.
+[2016.11.01-13.46.25:418][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.01-13.46.36:532][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.01-13.46.36:634][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.01-13.46.36:759][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.01-13.46.36:876][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.01-13.46.36:990][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.01-13.46.37:130][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.01-13.46.37:239][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.01-13.46.37:339][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.01-13.46.37:455][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.01-13.46.37:565][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.01-13.46.37:680][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.01-13.46.37:906][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.01-13.46.37:906][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.01-13.46.37:993][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.01-13.46.38:320][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.01-13.46.38:434][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.01-13.46.38:551][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.01-13.46.38:641][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.01-13.46.38:765][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.01-13.46.38:898][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.01-13.46.38:898][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.01-13.46.42:213][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.01-13.46.43:759][  0]LogDerivedDataCache: Loaded boot cache 1.53s 76MB C:/Users/Jesus/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.01-13.46.43:759][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Jesus/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.01-13.46.43:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.01-13.46.43:759][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.01-13.46.43:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.01-13.46.43:760][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.01-13.46.44:236][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.01-13.46.44:251][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jesus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.01-13.46.54:254][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.01-13.46.54:269][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.01-13.46.54:806][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.01-13.46.54:806][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.01-13.46.54:806][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.01-13.46.55:709][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.01-13.46.58:124][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: timeattack, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3050629448
+[2016.11.01-13.46.58:412][  0]LogAssetRegistry: FAssetRegistry took 0.0234 seconds to start up
+[2016.11.01-13.46.58:598][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.174548 seconds
+[2016.11.01-13.46.58:623][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.01-13.46.58:623][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.11.01-13.46.58:623][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.01-13.46.58:711][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.01-13.47.13:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.01-13.47.13:347][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.01-13.47.28:373][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.01-13.47.28:576][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.01-13.47.36:984][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.11.01-13.47.37:028][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.11.01-13.47.37:715][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.11.01-13.47.37:973][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.11.01-13.47.45:701][  0]LogEngine: Initializing Engine...
+[2016.11.01-13.47.45:704][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.01-13.47.47:923][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.01-13.47.47:972][  0]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-13.47.48:168][  0]LogInit: FAudioDevice initialized.
+[2016.11.01-13.47.48:285][  0]LogDerivedDataCache: Saved boot cache 0.12s 62MB C:/Users/Jesus/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.01-13.47.48:317][  0]LogInit: Texture streaming: Enabled
+[2016.11.01-13.47.49:534][  0]LogInit: Transaction tracking system initialized
+[2016.11.01-13.47.51:466][  0]BlueprintLog: New page: Cargar el editor
+[2016.11.01-13.47.58:958][  0]LocalizationService: Información Localization service is disabled
+[2016.11.01-13.48.01:555][  0]LogConsoleResponse:Display: 
+[2016.11.01-13.48.05:345][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.01-13.48.05:345][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.01-13.48.05:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/' took 0.03s
+[2016.11.01-13.48.11:321][  0]SourceControl: Información El control de código fuente está desactivado
+[2016.11.01-13.48.11:322][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.01-13.48.11:373][  0]LightingResults: New page: Diseñar la iluminación
+[2016.11.01-13.48.11:384][  0]MapCheck: New page: Revisión del mapa
+[2016.11.01-13.48.11:384][  0]LightingResults: New page: Diseñar la iluminación
+[2016.11.01-13.48.19:278][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-13.48.20:334][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.01-13.48.20:336][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.01-13.48.20:757][  0]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 420,435ms to complete.
+[2016.11.01-13.48.20:758][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 9.436
+[2016.11.01-13.48.20:824][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.01-13.48.21:373][  0]LogCollectionManager: Loaded 0 collections in 0.007258 seconds
+[2016.11.01-13.48.21:437][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Collections/' took 0.01s
+[2016.11.01-13.48.21:437][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Developers/Jesus/Collections/' took 0.01s
+[2016.11.01-13.48.21:437][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Collections/' took 0.01s
+[2016.11.01-13.48.21:437][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000024 seconds
+[2016.11.01-13.48.21:481][  0]LogContentBrowser: Native class hierarchy populated in 0.0435 seconds. Added 2141 classes and 415 folders.
+[2016.11.01-13.48.21:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.01-13.48.21:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.01-13.48.21:499][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0022 seconds. Added 12 classes and 0 folders.
+[2016.11.01-13.48.21:518][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2016.11.01-13.48.22:883][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2016.11.01-13.48.23:267][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2016.11.01-13.48.23:433][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.01-13.48.23:449][  0]LogUObjectGlobals:Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2016.11.01-13.48.23:865][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0020 seconds. Added 1 classes and 2 folders.
+[2016.11.01-13.48.23:866][  0]LogLoad: (Engine Initialization) Total time: 133.36 seconds
+[2016.11.01-13.48.23:866][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.90 seconds
+[2016.11.01-13.48.23:866][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.01-13.48.23:866][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.01-13.48.23:886][  0]LogOcInput: OculusInput pre-init called
+[2016.11.01-13.48.23:919][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.01-13.48.24:828][  0]LogRenderer: Reallocating scene render targets to support 856x372 (Frame:2).
+[2016.11.01-13.48.27:121][  6]LogAssetRegistry: Asset discovery search completed in 88.7333 seconds
+[2016.11.01-13.48.27:122][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2016.11.01-13.48.27:122][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000159 seconds (updated 0 objects)
+[2016.11.01-13.49.35:309][177]LogTexture:Display: Generando texturas: CameraActor_64x (BGRA8)
+[2016.11.01-13.49.35:409][177]LogTexture:Display: Generando texturas: BlueprintInterface_64x (BGRA8)
+[2016.11.01-13.49.35:462][177]LogTexture:Display: Generando texturas: BlueprintMacroLibrary_64x (BGRA8)
+[2016.11.01-13.49.36:510][177]LogTexture:Display: Generando texturas: IOS (BGRA8)
+[2016.11.01-13.49.36:622][177]LogTexture:Display: Generando texturas: android_Icon (BGRA8)
+[2016.11.01-13.49.36:685][177]LogTexture:Display: Generando texturas: Paper2DFlipbook_TutorialIcon (BGRA8)
+[2016.11.01-13.49.48:133][372]LogEditorViewport: Clicking on Actor (double click): TextRenderActor (TemplateLabel)
+[2016.11.01-13.51.24:426][971]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0038 seconds. Added 112 classes and 0 folders.
+[2016.11.01-13.51.27:820][971]LogTexture:Display: Generando texturas: TilePatine_N (BC5)
+[2016.11.01-13.51.28:079][971]LogTexture:Display: Generando texturas: TilePatine_D (AutoDXT)
+[2016.11.01-13.53.32:455][470]LogRenderer: Reallocating scene render targets to support 856x588 (Frame:4880).
+[2016.11.01-13.58.46:837][244]LogSavePackage: Save=4735.43ms
+[2016.11.01-13.58.46:837][244]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMap_Auto187055A2F4F4978446D8FB6ABCBC659A9.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2016.11.01-13.58.46:843][244]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap
+[2016.11.01-13.58.46:849][244]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 5.158
+[2016.11.01-13.58.46:849][244]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.158
+[2016.11.01-13.58.46:877][244]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint] ([1] browsable assets)...
+[2016.11.01-13.58.47:000][244]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint]
+[2016.11.01-13.58.47:000][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint]
+[2016.11.01-13.58.47:409][244]LogSavePackage: Save=397.47ms
+[2016.11.01-13.58.47:409][244]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleBlueprint_Auto1CC1E7CE04025FD6BE9F5D09D012CBC77.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset'
+[2016.11.01-13.58.47:416][244]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset
+[2016.11.01-13.58.47:416][244]LogFileHelpers: Auto-saving content packages took 0.563
+[2016.11.01-14.03.50:480][270]LogFactory:Error: Can't find file 'RealisticRender_MusicDay02.WAV' for import
+[2016.11.01-14.03.54:350][270]LogAssetTools:Warning: Failed to import 'RealisticRender_MusicDay02.WAV'. Failed to create asset '/Game/Audio/RealisticRender_MusicDay02'.
+Please see Output Log for details.
+[2016.11.01-14.03.54:355][270]LogFactory:Error: Can't find file 'Blueprints_TextPop03.WAV' for import
+[2016.11.01-14.03.56:378][270]LogAssetTools:Warning: Failed to import 'Blueprints_TextPop03.WAV'. Failed to create asset '/Game/Audio/Blueprints_TextPop03'.
+Please see Output Log for details.
+[2016.11.01-14.04.14:806][416]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jesus\Desktop\Blueprints_TextPop03.WAV)
+[2016.11.01-14.04.14:816][416]LogAudioDerivedData:Display: Generando el formato de audio comprimido OGG onda Blueprints_TextPop03...
+[2016.11.01-14.04.14:882][416]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Blueprints_TextPop03.Blueprints_TextPop03.
+[2016.11.01-14.04.14:891][416]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jesus\Desktop\RealisticRender_MusicDay02.WAV)
+[2016.11.01-14.04.15:128][416]LogAudioDerivedData:Display: Generando el formato de audio comprimido OGG onda RealisticRender_MusicDay02...
+[2016.11.01-14.04.20:951][416]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/RealisticRender_MusicDay02.RealisticRender_MusicDay02.
+[2016.11.01-14.08.13:859][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TimeConversion" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/TimeConversion.uasset" SILENT=true
+[2016.11.01-14.08.13:875][ 19]LogSavePackage: Save=10.97ms
+[2016.11.01-14.08.13:875][ 19]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/TimeConversion418A94514F6F3A4B51B33088E541C9C3.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/TimeConversion.uasset'
+[2016.11.01-14.08.13:884][ 19]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/TimeConversion.uasset
+[2016.11.01-14.08.48:381][152]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.157
+[2016.11.01-14.08.48:395][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/RealisticRender_MusicDay02] ([1] browsable assets)...
+[2016.11.01-14.08.48:740][152]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/RealisticRender_MusicDay02.RealisticRender_MusicDay02]
+[2016.11.01-14.08.48:740][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/RealisticRender_MusicDay02]
+[2016.11.01-14.08.48:873][152]LogSavePackage: Save=102.20ms
+[2016.11.01-14.08.48:873][152]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/RealisticRender_MusicDay02_Auto2100A3FCC4C11DBBE84E1669E5B73DEAA.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Audio/RealisticRender_MusicDay02_Auto2.uasset'
+[2016.11.01-14.08.48:889][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Audio/RealisticRender_MusicDay02_Auto2.uasset
+[2016.11.01-14.08.48:891][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Blueprints_TextPop03] ([1] browsable assets)...
+[2016.11.01-14.08.48:932][152]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Blueprints_TextPop03.Blueprints_TextPop03]
+[2016.11.01-14.08.48:932][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Blueprints_TextPop03]
+[2016.11.01-14.08.48:990][152]LogSavePackage: Save=49.17ms
+[2016.11.01-14.08.48:990][152]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Blueprints_TextPop03_Auto2EC317F7B4EF1516DB7CBFEAA24187299.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Audio/Blueprints_TextPop03_Auto2.uasset'
+[2016.11.01-14.08.49:026][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Audio/Blueprints_TextPop03_Auto2.uasset
+[2016.11.01-14.08.49:077][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Checkpoint] ([1] browsable assets)...
+[2016.11.01-14.08.49:083][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Checkpoint]
+[2016.11.01-14.08.49:192][152]LogSavePackage: Save=85.87ms
+[2016.11.01-14.08.49:192][152]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Checkpoint_Auto2D893B13F43EA4F084C78D7B1BDE66C5F.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Checkpoint_Auto2.uasset'
+[2016.11.01-14.08.49:201][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Checkpoint_Auto2.uasset
+[2016.11.01-14.08.49:214][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tracker] ([1] browsable assets)...
+[2016.11.01-14.08.49:214][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tracker]
+[2016.11.01-14.08.49:363][152]LogSavePackage: Save=108.01ms
+[2016.11.01-14.08.49:364][152]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Tracker_Auto2F347F8E7478CAD7ED6C850B11D6CEC4E.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Tracker_Auto2.uasset'
+[2016.11.01-14.08.49:416][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Tracker_Auto2.uasset
+[2016.11.01-14.08.49:447][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyPlayerController] ([1] browsable assets)...
+[2016.11.01-14.08.49:462][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyPlayerController]
+[2016.11.01-14.08.49:661][152]LogSavePackage: Save=154.14ms
+[2016.11.01-14.08.49:661][152]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerController_Auto2C12331084C7FB72602E4728252BF4A37.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto2.uasset'
+[2016.11.01-14.08.49:673][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto2.uasset
+[2016.11.01-14.08.49:676][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MySaveGame] ([1] browsable assets)...
+[2016.11.01-14.08.49:676][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MySaveGame]
+[2016.11.01-14.08.49:723][152]LogSavePackage: Save=19.97ms
+[2016.11.01-14.08.49:723][152]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MySaveGame_Auto2D3369ABD4CB095C96FB42B9ECDFCC44C.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MySaveGame_Auto2.uasset'
+[2016.11.01-14.08.49:740][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MySaveGame_Auto2.uasset
+[2016.11.01-14.08.49:802][152]LogSavePackage: Save=12.81ms
+[2016.11.01-14.08.49:802][152]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Time_Auto2491885BC4D3D4FA54C22A699A9A4B62F.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Time_Auto2.uasset'
+[2016.11.01-14.08.49:813][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Time_Auto2.uasset
+[2016.11.01-14.08.49:813][152]LogFileHelpers: Auto-saving content packages took 1.424
+[2016.11.01-14.09.20:726][659]LogMetaData: Removing '/Game/Blueprints/UI/HUD.SKEL_HUD_C' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2016.11.01-14.09.20:726][659]LogMetaData: Removing '/Game/Blueprints/UI/HUD.HUD_C' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2016.11.01-14.09.20:727][659]LogMetaData: Removing '/Game/Blueprints/UI/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2016.11.01-14.09.20:727][659]LogMetaData: Removing '/Game/Blueprints/UI/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/UI/NewWidgetBlueprint.PackageMetaData'
+[2016.11.01-14.09.20:827][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/HUD" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/UI/HUD.uasset" SILENT=true
+[2016.11.01-14.09.20:854][659]LogSavePackage: Save=20.98ms
+[2016.11.01-14.09.20:854][659]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/HUD67753BEB4FAEBD82B6F5A4B9C631D420.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/UI/HUD.uasset'
+[2016.11.01-14.09.20:862][659]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/UI/HUD.uasset
+[2016.11.01-14.10.27:706][ 50]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.01-14.10.32:344][135]BlueprintLog: New page: Compilar VehicleAdvGameMode
+[2016.11.01-14.10.34:371][155]LogSavePackage: Save=36.34ms
+[2016.11.01-14.10.34:371][155]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvGameModeE268034440B72FA8EC3B3B95C7B579DE.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset'
+[2016.11.01-14.10.34:381][155]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset
+[2016.11.01-14.10.39:605][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Blueprints_TextPop03" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Audio/Blueprints_TextPop03.uasset" SILENT=true
+[2016.11.01-14.10.39:625][207]LogSavePackage: Save=16.69ms
+[2016.11.01-14.10.39:626][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Blueprints_TextPop039A8C8AB14046B6071AB985A9E863EDA3.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Audio/Blueprints_TextPop03.uasset'
+[2016.11.01-14.10.39:636][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Audio/Blueprints_TextPop03.uasset
+[2016.11.01-14.10.39:726][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/RealisticRender_MusicDay02" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Audio/RealisticRender_MusicDay02.uasset" SILENT=true
+[2016.11.01-14.10.39:772][207]LogSavePackage: Save=42.60ms
+[2016.11.01-14.10.39:772][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/RealisticRender_MusicDay0243ABACA44DD47F106571C5931D9430C9.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Audio/RealisticRender_MusicDay02.uasset'
+[2016.11.01-14.10.39:782][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Audio/RealisticRender_MusicDay02.uasset
+[2016.11.01-14.10.39:793][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-14.10.39:826][207]LogSavePackage: Save=27.93ms
+[2016.11.01-14.10.39:826][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Checkpoint81398D4B4D576D8F7A5C3BBB74D89BF6.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-14.10.39:836][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-14.10.39:846][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyPlayerController" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset" SILENT=true
+[2016.11.01-14.10.39:894][207]LogSavePackage: Save=37.75ms
+[2016.11.01-14.10.39:894][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerControllerC33CB3CC415E4BD917F868B27C5A3B08.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset'
+[2016.11.01-14.10.39:906][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset
+[2016.11.01-14.10.39:917][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MySaveGame" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MySaveGame.uasset" SILENT=true
+[2016.11.01-14.10.39:935][207]LogSavePackage: Save=11.78ms
+[2016.11.01-14.10.39:936][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MySaveGame144B427C467D88639EAC298518BF1A72.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MySaveGame.uasset'
+[2016.11.01-14.10.39:950][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MySaveGame.uasset
+[2016.11.01-14.10.39:959][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Time" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Time.uasset" SILENT=true
+[2016.11.01-14.10.39:969][207]LogSavePackage: Save=4.39ms
+[2016.11.01-14.10.39:969][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Time2723B2D941B0036285C56FAA780CCFC7.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Time.uasset'
+[2016.11.01-14.10.39:977][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Time.uasset
+[2016.11.01-14.10.39:990][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tracker" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset" SILENT=true
+[2016.11.01-14.10.40:022][207]LogSavePackage: Save=28.06ms
+[2016.11.01-14.10.40:022][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/TrackerCBBC140748F4548452D2CB9831A8CDE3.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset'
+[2016.11.01-14.10.40:032][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset
+[2016.11.01-14.10.40:043][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/NewWidgetBlueprint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/UI/NewWidgetBlueprint.uasset" SILENT=true
+[2016.11.01-14.10.40:061][207]LogSavePackage: Save=11.76ms
+[2016.11.01-14.10.40:061][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/NewWidgetBlueprintA5296D2E464BF51A858FBAB946AD0B1C.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/UI/NewWidgetBlueprint.uasset'
+[2016.11.01-14.10.40:071][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/UI/NewWidgetBlueprint.uasset
+[2016.11.01-14.10.40:497][207]LogSavePackage: Save=403.15ms
+[2016.11.01-14.10.40:497][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleBlueprintD1840DA447CF59E9CB1951B09A84CB3B.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2016.11.01-14.10.40:508][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset
+[2016.11.01-14.10.46:278][207]LogSavePackage: Save=4946.42ms
+[2016.11.01-14.10.46:278][207]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMap2FB15D8A4E4F806195C8BEB823D9EEF7.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2016.11.01-14.10.46:302][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2016.11.01-14.10.46:396][207]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 5.871
+[2016.11.01-14.13.30:920][140]LogRenderer: Reallocating scene render targets to support 864x588 (Frame:13979).
+[2016.11.01-14.13.31:050][141]LogRenderer: Reallocating scene render targets to support 976x588 (Frame:13981).
+[2016.11.01-14.20.20:844][865]LogSynthBenchmark:Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2016.11.01-14.20.20:844][865]LogSynthBenchmark:Display: ===============
+[2016.11.01-14.20.20:844][865]LogSynthBenchmark:Display: Main Processor:
+[2016.11.01-14.20.20:940][865]LogSynthBenchmark:Display:          ... 0.053306 s/Run 'RayIntersect'
+[2016.11.01-14.20.20:940][865]LogSynthBenchmark:Display:          ... 0.043238 s/Run 'Fractal'
+[2016.11.01-14.20.20:940][865]LogSynthBenchmark:Display: 
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   CompiledTarget_x_Bits: 64
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   UE_BUILD_SHIPPING: 0
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   UE_BUILD_TEST: 0
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   UE_BUILD_DEBUG: 0
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   TotalPhysicalGBRam: 7
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   NumberOfCores (physical): 4
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   NumberOfCores (logical): 4
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   CPU Perf Index 0: 48.0 (weight 1.00)
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   CPU Perf Index 1: 66.1 (weight 1.50)
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:  
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display: Graphics:
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   Adapter Name: 'AMD Radeon(TM) R5 Graphics'
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   (On Optimus the name might be wrong, memory should be ok)
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   Vendor Id: 0x1002
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   Device Id: 0x9851
+[2016.11.01-14.20.20:941][865]LogSynthBenchmark:Display:   GPU Memory: 3043/0/3328 MB
+[2016.11.01-14.20.20:999][865]LogSynthBenchmark:Display:   GPU first test: 0.02s
+[2016.11.01-14.20.21:000][865]LogSynthBenchmark:Display:          ... 0.439 GigaPix/s, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2016.11.01-14.20.21:000][865]LogSynthBenchmark:Display:          ... 0.330 GigaPix/s, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2016.11.01-14.20.21:000][865]LogSynthBenchmark:Display:          ... 0.299 GigaPix/s, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2016.11.01-14.20.21:000][865]LogSynthBenchmark:Display:          ... 0.984 GigaPix/s, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2016.11.01-14.20.21:000][865]LogSynthBenchmark:Display:          ... 0.054 GigaPix/s, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2016.11.01-14.20.21:230][865]LogSynthBenchmark:Display:   GPU second test: 0.22s
+[2016.11.01-14.20.21:230][865]LogSynthBenchmark:Display:          ... 0.549 GigaPix/s, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 0.391 GigaPix/s, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 0.359 GigaPix/s, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 1.306 GigaPix/s, Confidence=89% 'FillOnly' (likely to be inaccurate)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 0.054 GigaPix/s, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 0.549 GigaPix/s, Confidence=100% 'ALUHeavyNoise'
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 0.391 GigaPix/s, Confidence=100% 'TexHeavy'
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 0.359 GigaPix/s, Confidence=100% 'DepTexHeavy'
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 1.306 GigaPix/s, Confidence=89% 'FillOnly'
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... 0.054 GigaPix/s, Confidence=100% 'Bandwidth'
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display: 
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:   GPU Perf Index 0: 11.9 (weight 1.00)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:   GPU Perf Index 1: 5.2 (weight 0.10)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:   GPU Perf Index 2: 9.3 (weight 0.10)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:   GPU Perf Index 3: 5.1 (weight 3.00)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:   GPU Perf Index 4: 5.0 (weight 1.00)
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:   CPUIndex: 58.9
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:   GPUIndex: 6.5
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display: 
+[2016.11.01-14.20.21:231][865]LogSynthBenchmark:Display:          ... Total Time: 0.387712 sec
+[2016.11.01-14.20.22:304][866]LogRenderer: Reallocating scene render targets to support 976x588 (Frame:19151).
+[2016.11.01-14.20.22:461][868]LogContentStreaming: Texture pool size now 400 MB
+[2016.11.01-14.21.24:140][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.067
+[2016.11.01-14.21.24:145][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyPlayerController] ([1] browsable assets)...
+[2016.11.01-14.21.24:146][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyPlayerController]
+[2016.11.01-14.21.24:193][ 88]LogSavePackage: Save=36.26ms
+[2016.11.01-14.21.24:193][ 88]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerController_Auto3F9DF30E24E2905F25AF24C8417B4761A.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto3.uasset'
+[2016.11.01-14.21.24:197][ 88]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto3.uasset
+[2016.11.01-14.21.24:197][ 88]LogFileHelpers: Auto-saving content packages took 0.054
+[2016.11.01-14.23.49:565][444]LogClass:Warning: Type mismatch in SaveSlot of SKEL_MyPlayerController_C - Previous (StructProperty) Current(StrProperty) for package:  FObjectReader
+[2016.11.01-14.24.34:974][624]BlueprintLog: New page: Compilar MyPlayerController
+[2016.11.01-14.24.55:091][146]BlueprintLog: New page: Compilar MyPlayerController
+[2016.11.01-14.24.57:020][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyPlayerController" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset" SILENT=true
+[2016.11.01-14.24.57:078][182]LogSavePackage: Save=48.98ms
+[2016.11.01-14.24.57:078][182]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerControllerB071D8ED4D3D1C7D501445B00CC8878D.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset'
+[2016.11.01-14.24.57:090][182]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset
+[2016.11.01-14.24.58:620][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyPlayerController" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset" SILENT=true
+[2016.11.01-14.24.58:677][223]LogSavePackage: Save=49.06ms
+[2016.11.01-14.24.58:677][223]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerController9FB3C49F486CC2D8567003B71658A056.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset'
+[2016.11.01-14.24.58:686][223]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset
+[2016.11.01-14.29.22:805][ 25]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.01-14.29.34:807][200]LogHttp:Warning: 000000B677FBCE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.01-14.29.34:807][200]LogHttp:Warning: 000000B677FBCE80: libcurl info message cache 3 (Connection 17 seems to be dead!)
+[2016.11.01-14.29.34:807][200]LogHttp:Warning: 000000B677FBCE80: libcurl info message cache 4 (Closing connection 17)
+[2016.11.01-14.29.34:807][200]LogHttp:Warning: 000000B677FBCE80: libcurl info message cache 5 (schannel: shutting down SSL/TLS connection with datarouter.ol.epicgames.com port 443)
+[2016.11.01-14.29.34:808][200]LogHttp:Warning: 000000B677FBCE80: libcurl info message cache 6 (schannel: clear security context handle)
+[2016.11.01-14.29.34:808][200]LogHttp:Warning: 000000B677FBCE80: libcurl info message cache 7 (schannel: decremented credential handle refcount = 0)
+[2016.11.01-14.29.34:808][200]LogHttp:Warning: 000000B677FBCE80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.01-14.29.34:808][200]LogHttp:Warning: 000000B677FBCE80: libcurl info message cache 9 (Closing connection 18)
+[2016.11.01-14.32.19:473][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.090
+[2016.11.01-14.32.19:478][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyPlayerController] ([1] browsable assets)...
+[2016.11.01-14.32.19:478][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyPlayerController]
+[2016.11.01-14.32.19:556][714]LogSavePackage: Save=65.76ms
+[2016.11.01-14.32.19:556][714]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerController_Auto4DFC259974F7665CAC6A6C59EF90B4A1B.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto4.uasset'
+[2016.11.01-14.32.19:561][714]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto4.uasset
+[2016.11.01-14.32.19:561][714]LogFileHelpers: Auto-saving content packages took 0.086
+[2016.11.01-14.44.39:783][396]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.110
+[2016.11.01-14.44.39:792][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyPlayerController] ([1] browsable assets)...
+[2016.11.01-14.44.39:792][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyPlayerController]
+[2016.11.01-14.44.40:001][396]LogSavePackage: Save=184.10ms
+[2016.11.01-14.44.40:001][396]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerController_Auto50CB301814DA22DE05C888DB623ADD5DD.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto5.uasset'
+[2016.11.01-14.44.40:016][396]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/MyPlayerController_Auto5.uasset
+[2016.11.01-14.44.40:017][396]LogFileHelpers: Auto-saving content packages took 0.231
+[2016.11.01-14.48.41:453][487]LogBlueprint:Warning: [Compiler ] Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.48.41:509][487]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.48.53:906][811]LogBlueprint:Warning: [Compiler ] Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_10  and was replaced as a Custom Event!
+[2016.11.01-14.48.53:967][811]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.48.53:967][811]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_10  and was replaced as a Custom Event!
+[2016.11.01-14.49.04:802][ 83]LogBlueprint:Warning: [Compiler ] Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_18  and was replaced as a Custom Event!
+[2016.11.01-14.49.04:861][ 83]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.49.04:862][ 83]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_10  and was replaced as a Custom Event!
+[2016.11.01-14.49.04:862][ 83]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_18  and was replaced as a Custom Event!
+[2016.11.01-14.49.46:893][588]LogBlueprint:Warning: [Compiler ] Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_28  and was replaced as a Custom Event!
+[2016.11.01-14.49.46:949][588]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.49.46:949][588]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_10  and was replaced as a Custom Event!
+[2016.11.01-14.49.46:950][588]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_18  and was replaced as a Custom Event!
+[2016.11.01-14.49.46:950][588]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_28  and was replaced as a Custom Event!
+[2016.11.01-14.49.54:523][797]LogBlueprint:Warning: [Compiler ] Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_40  and was replaced as a Custom Event!
+[2016.11.01-14.49.54:576][797]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.49.54:576][797]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_10  and was replaced as a Custom Event!
+[2016.11.01-14.49.54:577][797]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_18  and was replaced as a Custom Event!
+[2016.11.01-14.49.54:577][797]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_28  and was replaced as a Custom Event!
+[2016.11.01-14.49.54:577][797]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_40  and was replaced as a Custom Event!
+[2016.11.01-14.50.19:482][152]LogBlueprint:Warning: [Compiler ] Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_54  and was replaced as a Custom Event!
+[2016.11.01-14.50.19:550][152]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.50.19:550][152]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_10  and was replaced as a Custom Event!
+[2016.11.01-14.50.19:550][152]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_18  and was replaced as a Custom Event!
+[2016.11.01-14.50.19:550][152]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_28  and was replaced as a Custom Event!
+[2016.11.01-14.50.19:550][152]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_40  and was replaced as a Custom Event!
+[2016.11.01-14.50.19:550][152]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_54  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:928][286]LogBlueprint:Warning: [Compiler ] Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_70  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:992][286]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_4  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:992][286]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_10  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:992][286]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_0   conflicted with  K2Node_CustomEvent_18  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:992][286]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_28  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:993][286]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_40  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:993][286]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_54  and was replaced as a Custom Event!
+[2016.11.01-14.50.25:993][286]BlueprintEditorCompileResults:Warning: Aviso Pasted node  K2Node_CustomEvent_4   conflicted with  K2Node_CustomEvent_70  and was replaced as a Custom Event!
+[2016.11.01-14.50.47:950][690]BlueprintLog: New page: Compilar MyPlayerController
+[2016.11.01-14.50.49:209][697]BlueprintLog: New page: Compilar MyPlayerController
+[2016.11.01-14.50.51:997][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyPlayerController" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset" SILENT=true
+[2016.11.01-14.50.52:117][740]LogSavePackage: Save=106.13ms
+[2016.11.01-14.50.52:117][740]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/MyPlayerController5BD740004531C7B165CC298B0D0FC12F.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset'
+[2016.11.01-14.50.52:129][740]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/MyPlayerController.uasset
+[2016.11.01-14.51.15:059][ 88]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2016.11.01-14.51.25:867][511]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.01-14.51.25:867][511]LogPlayLevel: [PlayLevel] Compiling VehicleBlueprint before play...
+[2016.11.01-14.51.26:682][511]LogPlayLevel: PlayLevel: Blueprint regeneration took 815 ms (1 blueprints)
+[2016.11.01-14.51.26:683][511]PIE: New page: Sesión PIE (reproducción en el editor): VehicleAdvExampleMap (01-11-2016 7:51:26)
+[2016.11.01-14.51.26:683][511]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.11.01-14.51.26:877][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.194103s)
+[2016.11.01-14.51.26:880][511]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-14.51.26:881][511]LogPlayLevel: PIE: World Init took: (0.003061s)
+[2016.11.01-14.51.26:882][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.198293s)
+[2016.11.01-14.51.26:974][511]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-14.51.27:013][511]LogInit: FAudioDevice initialized.
+[2016.11.01-14.51.27:163][511]LogWorld: Game class is 'VehicleAdvGameMode_C'
+[2016.11.01-14.51.27:242][511]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2016.11.01-11.51.27
+[2016.11.01-14.51.27:246][511]LogWorld: Bringing up level for play took: 0.068893
+[2016.11.01-14.51.27:266][511]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 11 classes and 0 folders.
+[2016.11.01-14.51.27:266][511]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-14.51.27:267][511]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-14.51.27:267][511]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-14.51.27:270][511]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-14.51.27:270][511]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0,897
+[2016.11.01-14.51.46:497][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.01-14.51.46:497][174]PIE: New page: Sesión PIE (reproducción en el editor): VehicleAdvExampleMap (01-11-2016 7:51:46)
+[2016.11.01-14.51.46:497][174]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.11.01-14.51.46:657][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159371s)
+[2016.11.01-14.51.46:659][174]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-14.51.46:660][174]LogPlayLevel: PIE: World Init took: (0.002764s)
+[2016.11.01-14.51.46:660][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.162994s)
+[2016.11.01-14.51.46:763][174]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-14.51.46:798][174]LogInit: FAudioDevice initialized.
+[2016.11.01-14.51.46:841][174]LogWorld: Game class is 'VehicleAdvGameMode_C'
+[2016.11.01-14.51.46:914][174]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2016.11.01-11.51.46
+[2016.11.01-14.51.46:917][174]LogWorld: Bringing up level for play took: 0.064248
+[2016.11.01-14.51.46:920][174]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-14.51.46:920][174]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-14.51.46:920][174]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-14.51.46:922][174]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-14.51.46:922][174]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0,549
+[2016.11.01-14.52.17:347][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.01-14.52.17:347][415]PIE: New page: Sesión PIE (reproducción en el editor): VehicleAdvExampleMap (01-11-2016 7:52:17)
+[2016.11.01-14.52.17:347][415]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.11.01-14.52.17:506][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158520s)
+[2016.11.01-14.52.17:508][415]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-14.52.17:509][415]LogPlayLevel: PIE: World Init took: (0.002849s)
+[2016.11.01-14.52.17:510][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.162207s)
+[2016.11.01-14.52.17:602][415]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-14.52.17:638][415]LogInit: FAudioDevice initialized.
+[2016.11.01-14.52.17:680][415]LogWorld: Game class is 'VehicleAdvGameMode_C'
+[2016.11.01-14.52.17:758][415]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2016.11.01-11.52.17
+[2016.11.01-14.52.17:761][415]LogWorld: Bringing up level for play took: 0.068991
+[2016.11.01-14.52.17:764][415]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-14.52.17:764][415]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-14.52.17:764][415]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-14.52.17:766][415]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-14.52.17:767][415]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1,394
+[2016.11.01-14.53.10:341][988]LogSavePackage: Save=4501.90ms
+[2016.11.01-14.53.10:341][988]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMap5FCA93CD4C0D4C73DB23C7B9425F9F7D.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2016.11.01-14.53.10:379][988]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2016.11.01-14.53.10:450][988]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 5.474
+[2016.11.01-14.53.39:317][ 34]LogAIModule: Creating AISystem for world VehicleAdvExampleMap2
+[2016.11.01-14.53.53:814][419]LogSavePackage: Save=5430.79ms
+[2016.11.01-14.53.53:815][419]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/LooptyLoopMapA9C9F5A64C460A9E00BE038C564D7EE3.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/LooptyLoopMap.umap'
+[2016.11.01-14.53.53:848][419]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/LooptyLoopMap.umap
+[2016.11.01-14.53.53:922][419]LogFileHelpers: Saving map 'LooptyLoopMap' took 6.371
+[2016.11.01-14.54.08:289][486]LogSavePackage: Save=4033.26ms
+[2016.11.01-14.54.08:289][486]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/LooptyLoopMapE819E9444A8E3F93D82B35A9319C132D.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/LooptyLoopMap.umap'
+[2016.11.01-14.54.08:305][486]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/LooptyLoopMap.umap
+[2016.11.01-14.54.08:387][486]LogFileHelpers: Saving map 'LooptyLoopMap' took 4.967
+[2016.11.01-14.54.08:422][486]LogSavePackage: Save=10.97ms
+[2016.11.01-14.54.08:423][486]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMap2212A1484496C759810AE7D949625C114.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap2.uasset'
+[2016.11.01-14.54.08:431][486]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap2.uasset
+[2016.11.01-14.55.54:368][551]LogRenderer: Reallocating scene render targets to support 1040x588 (Frame:22442).
+[2016.11.01-14.59.45:790][527]LogSavePackage: Save=3478.73ms
+[2016.11.01-14.59.45:790][527]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMapE7EE85414AB4896ACF1CCD97AF8C63EB.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2016.11.01-14.59.45:800][527]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2016.11.01-14.59.47:280][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-14.59.47:333][557]LogSavePackage: Save=38.48ms
+[2016.11.01-14.59.47:333][557]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/CheckpointE3F0148C411E89B854D94CB44AADF401.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-14.59.47:341][557]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-14.59.48:053][574]BlueprintLog: New page: Compile Checkpoint
+[2016.11.01-14.59.49:663][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-14.59.49:711][597]LogSavePackage: Save=38.34ms
+[2016.11.01-14.59.49:711][597]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Checkpoint373E0A9642E2F7B60252B0916AB431E3.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-14.59.49:716][597]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-14.59.51:632][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-14.59.51:684][643]LogSavePackage: Save=41.09ms
+[2016.11.01-14.59.51:684][643]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/CheckpointE91930D44B3CF022DEE4EB856A9C8287.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-14.59.51:690][643]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-15.09.42:481][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.050
+[2016.11.01-15.19.42:705][382]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.050
+[2016.11.01-15.29.53:563][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.063
+[2016.11.01-15.32.23:785][441]BlueprintLog: New page: Compile Checkpoint
+[2016.11.01-15.32.25:070][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-15.32.25:167][460]LogSavePackage: Save=42.37ms
+[2016.11.01-15.32.25:167][460]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/CheckpointB059955E4290F00CAB32B08BA5AA3428.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-15.32.25:175][460]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-15.35.59:632][354]LogEditorTransaction: Undo Remove Variable
+[2016.11.01-15.40.14:760][932]LogSavePackage: Save=3604.05ms
+[2016.11.01-15.40.14:760][932]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMap_Auto687903A954941F96459F51AA83C59AE4B.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto6.umap'
+[2016.11.01-15.40.14:767][932]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto6.umap
+[2016.11.01-15.40.14:773][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 4.226
+[2016.11.01-15.40.14:773][932]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.226
+[2016.11.01-15.40.14:779][932]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Checkpoint] ([1] browsable assets)...
+[2016.11.01-15.40.14:779][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Checkpoint]
+[2016.11.01-15.40.14:867][932]LogSavePackage: Save=49.48ms
+[2016.11.01-15.40.14:867][932]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Checkpoint_Auto69E3119B54E3CBF0C887857B365538C2C.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Checkpoint_Auto6.uasset'
+[2016.11.01-15.40.14:871][932]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/Blueprints/Checkpoint_Auto6.uasset
+[2016.11.01-15.40.14:871][932]LogFileHelpers: Auto-saving content packages took 0.095
+[2016.11.01-15.52.04:124][764]BlueprintLog: New page: Compile Checkpoint
+[2016.11.01-15.52.06:595][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-15.52.06:685][796]LogSavePackage: Save=74.46ms
+[2016.11.01-15.52.06:685][796]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/CheckpointEF859B924F9F1AEFE0759FB2B41367A1.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-15.52.06:693][796]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-15.52.10:633][806]LogSavePackage: Save=3251.22ms
+[2016.11.01-15.52.10:633][806]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMap_Auto711CC99EA497BD1D019AE448FD9F3BFF1.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto7.umap'
+[2016.11.01-15.52.10:661][806]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto7.umap
+[2016.11.01-15.52.10:667][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 3.410
+[2016.11.01-15.52.10:667][806]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.410
+[2016.11.01-15.52.23:400][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.01-15.52.23:401][117]PIE: New page: PIE session: VehicleAdvExampleMap (Nov 1, 2016, 8:52:23 AM)
+[2016.11.01-15.52.23:401][117]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.11.01-15.52.23:565][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164106s)
+[2016.11.01-15.52.23:575][117]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-15.52.23:587][117]LogPlayLevel: PIE: World Init took: (0.022189s)
+[2016.11.01-15.52.23:588][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.187211s)
+[2016.11.01-15.52.23:639][117]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-15.52.23:674][117]LogInit: FAudioDevice initialized.
+[2016.11.01-15.52.23:718][117]LogWorld: Game class is 'VehicleAdvGameMode_C'
+[2016.11.01-15.52.23:794][117]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.11.01-12.52.23
+[2016.11.01-15.52.23:797][117]LogWorld: Bringing up level for play took: 0.066948
+[2016.11.01-15.52.23:800][117]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-15.52.23:800][117]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-15.52.23:800][117]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-15.52.23:802][117]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-15.52.23:802][117]PIE: Info Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.571
+[2016.11.01-15.55.23:315][486]BlueprintLog: New page: Compile Checkpoint
+[2016.11.01-15.55.25:387][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-15.55.25:471][510]LogSavePackage: Save=72.35ms
+[2016.11.01-15.55.25:471][510]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/CheckpointBB5D7B0B4ECB82407773F2B5401B8B65.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-15.55.25:479][510]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-15.55.33:093][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.01-15.55.33:093][634]PIE: New page: PIE session: VehicleAdvExampleMap (Nov 1, 2016, 8:55:33 AM)
+[2016.11.01-15.55.33:094][634]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.11.01-15.55.33:260][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166653s)
+[2016.11.01-15.55.33:263][634]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-15.55.33:264][634]LogPlayLevel: PIE: World Init took: (0.002979s)
+[2016.11.01-15.55.33:264][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.170497s)
+[2016.11.01-15.55.33:319][634]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-15.55.33:358][634]LogInit: FAudioDevice initialized.
+[2016.11.01-15.55.33:412][634]LogWorld: Game class is 'VehicleAdvGameMode_C'
+[2016.11.01-15.55.33:494][634]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.11.01-12.55.33
+[2016.11.01-15.55.33:498][634]LogWorld: Bringing up level for play took: 0.073919
+[2016.11.01-15.55.33:501][634]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-15.55.33:501][634]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-15.55.33:501][634]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-15.55.33:504][634]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-15.55.33:504][634]PIE: Info Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.131
+[2016.11.01-15.57.11:329][532]BlueprintLog: New page: Compile Checkpoint
+[2016.11.01-15.57.13:545][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-15.57.13:635][561]LogSavePackage: Save=73.87ms
+[2016.11.01-15.57.13:635][561]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Checkpoint830F2E27418C96B3017DF99EB1FF5E44.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-15.57.13:643][561]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-15.57.20:463][788]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2016.11.01-15.57.20:805][794]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (VehicleMesh)
+[2016.11.01-15.57.21:237][806]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (VehicleMesh)
+[2016.11.01-15.57.21:823][834]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (VehicleMesh)
+[2016.11.01-15.57.21:953][836]LogEditorViewport: Clicking on Actor (double click): VehicleBlueprint_C (VehicleBlueprint)
+[2016.11.01-15.57.44:155][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.01-15.57.44:155][395]PIE: New page: PIE session: VehicleAdvExampleMap (Nov 1, 2016, 8:57:44 AM)
+[2016.11.01-15.57.44:155][395]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.11.01-15.57.44:320][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164611s)
+[2016.11.01-15.57.44:322][395]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-15.57.44:323][395]LogPlayLevel: PIE: World Init took: (0.003084s)
+[2016.11.01-15.57.44:324][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.168522s)
+[2016.11.01-15.57.44:378][395]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-15.57.44:413][395]LogInit: FAudioDevice initialized.
+[2016.11.01-15.57.44:457][395]LogWorld: Game class is 'VehicleAdvGameMode_C'
+[2016.11.01-15.57.44:535][395]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.11.01-12.57.44
+[2016.11.01-15.57.44:539][395]LogWorld: Bringing up level for play took: 0.070338
+[2016.11.01-15.57.44:542][395]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-15.57.44:542][395]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-15.57.44:542][395]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-15.57.44:544][395]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-15.57.44:545][395]PIE: Info Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.172
+[2016.11.01-16.00.52:548][146]BlueprintLog: New page: Compile Checkpoint
+[2016.11.01-16.00.54:243][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-16.00.54:331][161]LogSavePackage: Save=73.91ms
+[2016.11.01-16.00.54:331][161]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/CheckpointFC765D884FF3797EB6316790B2918B02.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-16.00.54:340][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-16.01.11:878][326]BlueprintLog: New page: Compile Checkpoint
+[2016.11.01-16.01.16:568][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Checkpoint" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset" SILENT=true
+[2016.11.01-16.01.16:663][355]LogSavePackage: Save=81.76ms
+[2016.11.01-16.01.16:663][355]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/CheckpointD87D2EAE4F673155A0CE7D9A129BB9CA.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset'
+[2016.11.01-16.01.16:672][355]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Checkpoint.uasset
+[2016.11.01-16.01.33:087][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.01-16.01.33:087][616]PIE: New page: PIE session: VehicleAdvExampleMap (Nov 1, 2016, 9:01:33 AM)
+[2016.11.01-16.01.33:088][616]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2016.11.01-16.01.33:249][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161609s)
+[2016.11.01-16.01.33:252][616]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2016.11.01-16.01.33:253][616]LogPlayLevel: PIE: World Init took: (0.003449s)
+[2016.11.01-16.01.33:254][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.166172s)
+[2016.11.01-16.01.33:307][616]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.01-16.01.33:344][616]LogInit: FAudioDevice initialized.
+[2016.11.01-16.01.33:388][616]LogWorld: Game class is 'VehicleAdvGameMode_C'
+[2016.11.01-16.01.33:467][616]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2016.11.01-13.01.33
+[2016.11.01-16.01.33:470][616]LogWorld: Bringing up level for play took: 0.070024
+[2016.11.01-16.01.33:472][616]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-16.01.33:473][616]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.01-16.01.33:473][616]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-16.01.33:475][616]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.01-16.01.33:475][616]PIE: Info Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.101
+[2016.11.01-16.03.37:267][109]BlueprintLog: New page: Compile Tracker
+[2016.11.01-16.03.38:733][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tracker" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset" SILENT=true
+[2016.11.01-16.03.38:783][122]LogSavePackage: Save=33.87ms
+[2016.11.01-16.03.38:783][122]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Tracker5EABB7AA493794B43402DFBB58DE0A89.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset'
+[2016.11.01-16.03.38:795][122]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset
+[2016.11.01-16.03.45:900][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tracker" FILE="../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset" SILENT=true
+[2016.11.01-16.03.45:944][169]LogSavePackage: Save=31.44ms
+[2016.11.01-16.03.45:944][169]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Tracker93D1B1CB4DA403388CA1058FFB3398F6.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset'
+[2016.11.01-16.03.45:950][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Blueprints/Tracker.uasset
+[2016.11.01-16.04.03:448][708]LogEditorViewport: Clicking on Actor (LMB): Tracker_C (Tracker)
+[2016.11.01-16.04.07:759][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_41)
+[2016.11.01-16.04.07:887][833]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.11.01-16.04.09:720][898]LogEditorViewport: Clicking on Actor (LMB): Tracker_C (Tracker)
+[2016.11.01-16.04.46:703][171]LogSavePackage: Save=4937.01ms
+[2016.11.01-16.04.46:703][171]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMap_Auto8A38ED3E0485A3090E4D5B4BAFF689C8D.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto8.umap'
+[2016.11.01-16.04.46:709][171]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto8.umap
+[2016.11.01-16.04.46:716][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 5.246
+[2016.11.01-16.04.46:716][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.246
+[2016.11.01-16.43.18:346][489]LogSavePackage: Save=3272.49ms
+[2016.11.01-16.43.18:346][489]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/LooptyLoopMap66B9FB0E4C553A2830C42B9EB514C978.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/LooptyLoopMap.umap'
+[2016.11.01-16.43.18:361][489]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/LooptyLoopMap.umap
+[2016.11.01-16.43.18:392][489]LogFileHelpers: Saving map 'LooptyLoopMap' took 6.482
+[2016.11.01-16.43.22:109][489]LogSavePackage: Save=3138.31ms
+[2016.11.01-16.43.22:109][489]LogSavePackage: Moving '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/VehicleAdvExampleMapAB63DA754A2C257A5DDA7DA457FC11B6.tmp' to '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2016.11.01-16.43.22:124][489]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2016.11.01-16.43.22:320][489]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 3.922
+[2016.11.01-16.43.24:293][489]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.01-16.43.25:718][490]Cmd: QUIT_EDITOR
+[2016.11.01-16.43.29:448][490]LogExit: Preparing to exit.
+[2016.11.01-16.43.30:629][490]LogDirectoryWatcher: A directory notification for 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/' was aborted.
+[2016.11.01-16.43.31:375][490]LogExit: Editor shut down
+[2016.11.01-16.43.31:377][490]LogExit: Transaction tracking system shut down
+[2016.11.01-16.43.35:667][490]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.01-16.43.35:669][490]LogExit: Object subsystem successfully closed.
+[2016.11.01-16.43.36:451][490]LogD3D11RHI: Shutdown
+[2016.11.01-16.43.36:451][490]LogD3D11RHI: CleanupD3DDevice
+[2016.11.01-16.43.36:744][490]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.01-16.43.38:099][490]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (238)
+[2016.11.01-16.43.38:100][490]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2016.11.01-16.43.38:100][490]LogModuleManager: Shutting down and abandoning module SynthBenchmark (236)
+[2016.11.01-16.43.38:100][490]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2016.11.01-16.43.38:100][490]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2016.11.01-16.43.38:183][490]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.01-16.43.38:183][490]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.01-16.43.38:211][490]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.11.01-16.43.38:211][490]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.11.01-16.43.38:211][490]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.11.01-16.43.38:228][490]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.01-16.43.38:244][490]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.11.01-16.43.38:244][490]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.11.01-16.43.38:244][490]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.11.01-16.43.38:283][490]LogDirectoryWatcher: A directory notification for 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Collections/' was aborted.
+[2016.11.01-16.43.38:283][490]LogDirectoryWatcher: A directory notification for 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/Developers/Jesus/Collections/' was aborted.
+[2016.11.01-16.43.38:283][490]LogDirectoryWatcher: A directory notification for 'C:/Users/Jesus/Documents/Unreal Projects/TimeAttack/Saved/Collections/' was aborted.
+[2016.11.01-16.43.38:284][490]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.01-16.43.38:322][490]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.01-16.43.38:381][490]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.01-16.43.38:405][490]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.01-16.43.38:405][490]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.01-16.43.38:406][490]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.01-16.43.38:406][490]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.01-16.43.38:406][490]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.01-16.43.38:437][490]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.01-16.43.38:459][490]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.01-16.43.38:459][490]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.01-16.43.38:547][490]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.01-16.43.38:561][490]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.01-16.43.38:561][490]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.01-16.43.38:579][490]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.01-16.43.38:660][490]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.01-16.43.38:661][490]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.01-16.43.38:661][490]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.01-16.43.38:661][490]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.01-16.43.38:661][490]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.01-16.43.38:688][490]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.01-16.43.38:797][490]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.01-16.43.38:798][490]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.01-16.43.38:798][490]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.01-16.43.38:809][490]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.01-16.43.38:809][490]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.01-16.43.39:052][490]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.01-16.43.39:068][490]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.01-16.43.39:068][490]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.01-16.43.39:068][490]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.01-16.43.39:130][490]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.01-16.43.39:147][490]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.01-16.43.39:178][490]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.01-16.43.39:259][490]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.01-16.43.39:259][490]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.01-16.43.39:275][490]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.01-16.43.39:338][490]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.01-16.43.39:338][490]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.01-16.43.39:449][490]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.01-16.43.39:492][490]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.01-16.43.39:492][490]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.01-16.43.39:508][490]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.01-16.43.39:541][490]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.01-16.43.39:566][490]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.01-16.43.39:566][490]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.01-16.43.39:630][490]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.01-16.43.39:631][490]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.01-16.43.39:631][490]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.01-16.43.39:672][490]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.01-16.43.39:693][490]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.01-16.43.39:735][490]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.01-16.43.39:735][490]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.01-16.43.39:842][490]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.01-16.43.39:891][490]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.01-16.43.39:908][490]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.01-16.43.39:946][490]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.01-16.43.39:946][490]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.01-16.43.39:964][490]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.01-16.43.39:965][490]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.01-16.43.39:965][490]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.01-16.43.40:093][490]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.01-16.43.40:142][490]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.01-16.43.40:143][490]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.01-16.43.40:165][490]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.01-16.43.40:186][490]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.01-16.43.40:196][490]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.01-16.43.40:221][490]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.01-16.43.40:221][490]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.01-16.43.40:259][490]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.01-16.43.40:259][490]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.01-16.43.40:275][490]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.01-16.43.40:275][490]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.01-16.43.40:275][490]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.01-16.43.40:275][490]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.01-16.43.40:275][490]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.01-16.43.40:275][490]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.01-16.43.40:325][490]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.01-16.43.40:334][490]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.01-16.43.40:334][490]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.01-16.43.40:469][490]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.01-16.43.40:518][490]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.01-16.43.40:519][490]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.01-16.43.40:519][490]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.01-16.43.40:519][490]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.01-16.43.40:538][490]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.01-16.43.40:568][490]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.01-16.43.40:568][490]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.01-16.43.40:568][490]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.01-16.43.40:568][490]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.01-16.43.40:568][490]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.01-16.43.40:568][490]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.01-16.43.40:607][490]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.01-16.43.40:676][490]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.01-16.43.40:676][490]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.01-16.43.40:759][490]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.01-16.43.40:759][490]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.01-16.43.40:759][490]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.01-16.43.40:760][490]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.01-16.43.40:760][490]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.01-16.43.40:779][490]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.01-16.43.40:779][490]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.01-16.43.40:779][490]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.01-16.43.40:779][490]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.01-16.43.40:779][490]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.01-16.43.40:779][490]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.01-16.43.40:851][490]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.01-16.43.40:851][490]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.01-16.43.40:918][490]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.01-16.43.40:918][490]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.01-16.43.40:920][490]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.01-16.43.40:922][490]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.01-16.43.40:944][490]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.01-16.43.41:045][490]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.01-16.43.41:162][490]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.01-16.43.41:162][490]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.01-16.43.41:162][490]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.01-16.43.41:175][490]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.01-16.43.41:176][490]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.01-16.43.41:176][490]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.01-16.43.41:235][490]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.01-16.43.41:260][490]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.01-16.43.41:260][490]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.01-16.43.41:260][490]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.01-16.43.41:260][490]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.01-16.43.41:347][490]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.01-16.43.41:347][490]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.01-16.43.41:422][490]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.01-16.43.41:490][490]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.01-16.43.41:490][490]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.01-16.43.41:490][490]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.01-16.43.41:544][490]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.01-16.43.41:683][490]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.01-16.43.41:707][490]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.01-16.43.41:788][490]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.01-16.43.41:788][490]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.01-16.43.41:797][490]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.01-16.43.41:797][490]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.01-16.43.41:797][490]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.01-16.43.41:797][490]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.01-16.43.41:797][490]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.01-16.43.41:797][490]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.01-16.43.41:797][490]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.01-16.43.41:798][490]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jesus/Documents/Unreal Projects/TimeAttack/Content/' was aborted.
+[2016.11.01-16.43.41:799][490]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.01-16.43.41:805][490]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.01-16.43.42:172][490]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.01-16.43.42:172][490]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.01-16.43.42:199][490]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.01-16.43.42:225][490]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.01-16.43.42:305][490]LogDerivedDataCache: Shutdown
+[2016.11.01-16.43.42:305][490]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.01-16.43.42:319][490]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.01-16.43.42:356][490]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.01-16.43.42:367][490]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.01-16.43.42:380][490]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.01-16.43.42:380][490]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.01-16.43.42:395][490]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.01-16.43.42:395][490]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.01-16.43.42:431][490]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.01-16.43.42:432][490]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.01-16.43.42:432][490]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.01-16.43.42:432][490]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.01-16.43.42:432][490]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.01-16.43.42:432][490]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.01-16.43.42:440][490]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.01-16.43.42:440][490]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.01-16.43.42:452][490]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.01-16.43.42:452][490]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.01-16.43.42:459][490]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.01-16.43.42:475][490]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.01-16.43.42:494][490]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.01-16.43.42:502][490]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.01-16.43.42:502][490]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.01-16.43.42:502][490]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.01-16.43.42:502][490]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.01-16.43.42:502][490]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.01-16.43.42:524][490]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.01-16.43.42:524][490]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.01-16.43.42:524][490]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.01-16.43.42:524][490]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.01-16.43.42:543][490]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.01-16.43.42:582][490]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.01-16.43.42:582][490]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.01-16.43.42:582][490]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12A96EC0-46C5-3A45-0624-D786C59E9D06%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=0c479a84476251348e1244a9dc85ee2d%7Cad65c476117149dd88ee20b2fc68372b%7C491708b6-a3d4-4e31-bbb1-c0eba3451eb5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.01-16.43.42:597][490]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.01-16.43.42:629][490]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.01-16.43.42:629][490]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.01-16.43.42:629][490]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.01-16.43.42:629][490]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.01-16.43.42:643][490]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.01-16.43.42:652][490]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.01-16.43.42:652][490]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.01-16.43.42:652][490]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.01-16.43.42:652][490]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.01-16.43.42:652][490]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.01-16.43.42:652][490]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.01-16.43.42:659][490]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.01-16.43.42:665][490]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.01-16.43.42:679][490]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.01-16.43.42:759][490]LogExit: Exiting.
+[2016.11.01-16.43.42:797][490]Log file closed, 11/01/16 13:43:42
